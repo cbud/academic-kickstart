@@ -13,7 +13,7 @@ image_preview = "Buddenhagenetal2009Biofuel Invasiveness.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["invasion risk"]
+tags = ["invasion risk", "risks"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
