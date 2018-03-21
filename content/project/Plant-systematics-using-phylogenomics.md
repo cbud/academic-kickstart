@@ -23,8 +23,8 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "Avon.jpg"
-caption = "Searching for *Rhynchospora stenophylla* on Avon Airforce Base. :smile:"
+image = "Rhyncho.jpg"
+caption = "Beaksedge achenes :smile:"
 
 +++
 
