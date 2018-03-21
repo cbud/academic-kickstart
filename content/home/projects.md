@@ -32,6 +32,10 @@ filter_default = 0
   name = "All"
   tag = "*"
 
+ [[filter]]
+  name = "Herbicide resistance"
+  tag = ".HR"
+  
 [[filter]]
   name = "Angiosperm and sedge systematics"
   tag = ".sedges"
