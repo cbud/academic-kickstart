@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = "2016-04-20T00:00:00"
+date = "2018-02-24T00:00:00"
 
 # Order that this section will appear in.
 weight = 5
@@ -10,31 +10,36 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Biosecurity",
+    "Natural resource management",
+    "Food security",
+    "Invasive species",
+    "Comparative Phylogenetics",
+    "Natural history collections",
+    "Biodiversity conservation"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Ecology and Evolution"
+  institution = "Florida State University"
+  year = 2016
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MSc Botany/Forest Ecology"
+  institution = "The University of Auckland"
+  year = 1995
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc Biology"
+  institution = "The University of Auckland"
+  year = 1991
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a post-doctoral scholar at AgResearch in Hamilton, New Zealand in Forage Science. We are investigating problems of herbicide resistant weeds. I was recently a post-doctoral researcher in the Plant Pathology Department at the University of Florida ([CV](pdf/BuddenhagenHighlightsCV20170817.pdf)). I completed my PhD with [Austin Mast](http://mastlab.org) at Florida State University in 2016. I also spent a few years working as a curator in the [herbarium](http://herbarium.bio.fsu.edu/) at FSU. A major goal of my work has been to inform and influence management and policy with respect to biosecurity, biodiversity (including systematics and evolution), and natural resources. Apart from recent work on plant phylogenomics, and systematics, my research has focused on invasive plants, animal impacts and lately the spread of plant pathogens. Prior to completing my doctorate, I gained deep experience in non-academic roles that focused on biosecurity issues related to invasive plant and animal policy and management in New Zealand, Galapagos and Hawaii. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+
+This site provides a non-exhaustive list of my publications. More details are provided on my [CV](pdf/BuddenhagenCV20170723.pdf).
