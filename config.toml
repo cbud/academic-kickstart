@@ -58,7 +58,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "AgResearch", url = "https://www.agresearch.co.nz/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "CB.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "chris.buddenhagen@agresearch.co.nz"
   address = "10 Bisley Rd, Hamilton, 3216"
   office_hours = "email for appointment"
